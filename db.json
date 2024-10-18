@@ -1,0 +1,163 @@
+{
+  "users": [
+    {
+      "username": "krishna",
+      "password": "krishna@123",
+      "role": "admin",
+      "availabilityStatus": "Available",
+      "id": "63aa"
+    },
+    {
+      "username": "roopa",
+      "password": "roopa@123",
+      "role": "customer",
+      "availabilityStatus": "Available",
+      "id": "b928"
+    },
+    {
+      "username": "rimika",
+      "password": "rimika@123",
+      "role": "customer",
+      "availabilityStatus": "Offline",
+      "id": "2882"
+    },
+    {
+      "username": "arun",
+      "password": "arun@123",
+      "role": "customer",
+      "availabilityStatus": "Available",
+      "id": "9d5f"
+    },
+    {
+      "username": "roshan",
+      "password": "roshan@123",
+      "role": "customer",
+      "availabilityStatus": "Available",
+      "id": "a3b4"
+    },
+    {
+      "username": "khalid",
+      "password": "khalid@123",
+      "role": "customer",
+      "availabilityStatus": "Available",
+      "id": "0125"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "pdtName": "Gamia Laptop",
+      "pdtPrice": 33000,
+      "pdtCode": "1",
+      "pdtDescription": "An excellent choice for an awesome gaming experience.",
+      "pdtCategory": "Electronics",
+      "avgFeedback": 3,
+      "purchasedUser": "roopa",
+      "pdtImg": "/images/Laptop.jpg",
+      "isReturned": true
+    },
+    {
+      "id": "2",
+      "pdtName": "Nep Mobile EX321",
+      "pdtPrice": 8999,
+      "pdtCode": "2",
+      "pdtDescription": "This will take you to next level of communication.",
+      "pdtCategory": "Electronics",
+      "avgFeedback": 4,
+      "purchasedUser": "rimika",
+      "pdtImg": "/images/Mobile.png",
+      "isReturned": false
+    },
+    {
+      "id": "3",
+      "pdtName": "Khaadi Shirt",
+      "pdtPrice": 982,
+      "pdtCode": "3",
+      "pdtDescription": "Best suitable for tropical climate.",
+      "pdtCategory": "Costumes",
+      "avgFeedback": 4,
+      "purchasedUser": "roopa",
+      "pdtImg": "/images/shirt.jpg",
+      "isReturned": true
+    },
+    {
+      "id": "4",
+      "pdtName": "SungSam Headphones",
+      "pdtPrice": 2200,
+      "pdtCode": "4",
+      "pdtDescription": "Excellent bluetooth headphones with good sound quality",
+      "pdtCategory": "Electronics",
+      "avgFeedback": 2,
+      "purchasedUser": "khalid",
+      "pdtImg": "/images/headphones.png",
+      "isReturned": false
+    }
+  ],
+  "feedbackDetails": [
+    {
+      "id": "1",
+      "pdtCode": "1",
+      "user": "John",
+      "body": "Awesome product at an affordable range. Go for it.",
+      "rating": 4.2
+    },
+    {
+      "id": "2",
+      "pdtCode": "1",
+      "user": "Bekie",
+      "body": "Not upto the mark. Gets heated soon",
+      "rating": 3.7
+    },
+    {
+      "id": "3",
+      "pdtCode": "1",
+      "user": "Calie",
+      "body": "Worst product. First of all , received very late. Forget about it",
+      "rating": 2.7
+    },
+    {
+      "id": "4",
+      "pdtCode": "2",
+      "user": "James",
+      "body": "Looks fine",
+      "rating": 4
+    },
+    {
+      "id": "5",
+      "pdtCode": "2",
+      "user": "Tessie",
+      "body": "good one at this range of price.",
+      "rating": 4.4
+    },
+    {
+      "id": "6",
+      "pdtCode": "2",
+      "user": "Mic",
+      "body": "GPS less accurate. Rest everything is fine.",
+      "rating": 2
+    },
+    {
+      "id": "7",
+      "pdtCode": "3",
+      "user": "Nick",
+      "body": "Good for the climate.",
+      "rating": 4.3
+    },
+    {
+      "id": "6f85",
+      "body": "jksdfmaj,",
+      "user": "krishna",
+      "rating": "5",
+      "feedbackAck": "Thanks for your feedback",
+      "pdtCode": "2"
+    },
+    {
+      "id": "7ef9",
+      "body": "nkjsd",
+      "user": "krishna",
+      "rating": "5",
+      "feedbackAck": "",
+      "pdtCode": "2"
+    }
+  ]
+}
