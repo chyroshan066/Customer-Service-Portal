@@ -42,7 +42,7 @@ To deploy the project to a server, follow these steps)
 [comment]: # (## Contributing)
 
 ## Links
-+ <a href = "https://github.com/chyroshan066/DP_BasicReact">Project homepage</a>
++ <a href = "https://github.com/chyroshan066/Customer-Service-Portal">Project homepage</a>
 + Other Projects:
   - <a href = "https://github.com/chyroshan066/Text-Formatter">Text Formatter</a>
   - <a href = "https://github.com/chyroshan066/News-App">News App</a>
