@@ -1,5 +1,9 @@
 # DP_BasicReact
-Customer Service Portal with login and logout functionality and different user roles.
+
+1. Customer Service Portal is an application built using React Functionalities.
+2. Login – The customer can log in by entering the credentials.
+3.  Purchased Items – Displays the various products bought by the customer.
+4.  Feedback – The customer can provide feedback on the products they purchased.
 
 ## Installing / Getting started
 
